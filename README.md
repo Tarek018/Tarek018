@@ -2,8 +2,6 @@
 <h3 align="center">full stack web developer</h3>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a
     href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
