@@ -26,7 +26,10 @@
   <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.solidjs.com/img/favicons/apple-touch-icon.png" alt="couchdb" width="40" height="40" /></a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> <a
+      src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> 
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" width="40" height="40" /> </a> <a
     href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg"
       alt="couchdb" width="40" height="40" /> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
@@ -39,9 +42,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
       height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
